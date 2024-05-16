@@ -13,6 +13,18 @@ This project explores the application of machine learning (ML) to predict employ
 - [License](#license)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+
+  ## Objectives
+
+- Train machine learning models on employee satisfaction data to predict leave or not.
+- Compare the performance of KNN and Random Forest algorithms in predicting employee satisfaction.
+- Identify the most effective model for future deployment in employe satisfaction assessments.
+
+## Dataset
+The project utilizes the employee satisfaction dataset made available by Tawfik Elmetwally, comprising various parameters relating to an employee
+
+**Data Source:** (https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset) by Tawfik Elmetwally
+
 ### Dataset Description
 
 Each entry in the dataset represents employee satisfaction parameters:
