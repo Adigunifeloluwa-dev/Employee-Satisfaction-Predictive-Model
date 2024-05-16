@@ -14,7 +14,9 @@ This project explores the application of machine learning (ML) to predict employ
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
+## Conclusion
 
+The Random Forest model, with its superior performance, is recommended for future deployment in employee satisfaction tasks. Its effectiveness in accurately identifying the satisfaction of employees, whether they would leave or not, underscores its reliability for practical applications.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE), promoting free use, modification, and distribution of the software, ensuring that contributions are welcomed and recognized.
