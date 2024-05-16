@@ -13,28 +13,8 @@ This project explores the application of machine learning (ML) to predict employ
 - [License](#license)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+  
 ## Project Structure
-The methodology encompasses data pre-processing, cleaning, exploration, and handling of missing values and outliers. 
-Feature engineering is performed to standardize input variables, and the dataset is split into training and test sets. Finally, 
-KNN and Random Forest Classification models are trained and evaluated.
-
-## Model Training and Evaluation
-
-Two machine learning models are explored:
-
-- **KNN**: A straightforward method that classifies water based on the majority vote of its nearest neighbors.
-- **Random Forest Classifier**: An ensemble technique that uses multiple decision trees to improve prediction accuracy.
-
-Performance metrics such as accuracy, precision, recall, and F1-score are used to evaluate the models.
-
-1. **Library Importation**: Setup of the Python environment with necessary libraries.
-2. **Dataset Importation**: Loading the water potability data from a CSV file.
-3. **Data Analysis**: Employing descriptive statistics and data visualization for an in-depth understanding of the dataset.
-4. **Data Pre-processing**: Cleaning and preparing the data for analysis.
-5. **Model Training**: Applying machine learning algorithms to the training data.
-6. **Model Evaluation**: Assessing model performance using precision, recall, and confusion matrices.
-
-## Methodology## Project Structure
 
 1. **Library Importation**: Setup of the Python environment with necessary libraries.
 2. **Dataset Importation**: Loading the water potability data from a CSV file.
