@@ -14,11 +14,15 @@ This project explores the application of machine learning (ML) to predict employ
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
-  ## Objectives
+## Introduction
+
+Employee satisfaction is vital for organizational success, boosting productivity, motivation, and loyalty. Using KNN and random forest classifiers, organizations can analyze factors impacting satisfaction, helping to predict and improve employee contentment, thus reducing turnover and enhancing performance.
+
+## Objectives
 
 - Train machine learning models on employee satisfaction data to predict leave or not.
 - Compare the performance of KNN and Random Forest algorithms in predicting employee satisfaction.
-- Identify the most effective model for future deployment in employe satisfaction assessments.
+- Identify the most effective model for future deployment in employee satisfaction assessments.
 
 ## Dataset
 The project utilizes the employee satisfaction dataset made available by Tawfik Elmetwally, comprising various parameters relating to an employee
