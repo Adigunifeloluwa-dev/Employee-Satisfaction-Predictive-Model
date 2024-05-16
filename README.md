@@ -13,7 +13,9 @@ This project explores the application of machine learning (ML) to predict employ
 - [License](#license)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+## Results
 
+The project's findings indicate that the Random Forest Classifier outperforms the KNN model across all evaluation metrics, demonstrating higher efficiency in classifying employee satisfaction.
 ## Conclusion
 
 The Random Forest model, with its superior performance, is recommended for future deployment in employee satisfaction tasks. Its effectiveness in accurately identifying the satisfaction of employees, whether they would leave or not, underscores its reliability for practical applications.
