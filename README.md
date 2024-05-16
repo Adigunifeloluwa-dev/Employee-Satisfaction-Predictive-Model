@@ -13,3 +13,17 @@ This project explores the application of machine learning (ML) to predict employ
 - [License](#license)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE), promoting free use, modification, and distribution of the software, ensuring that contributions are welcomed and recognized.
+
+## How to Use
+
+1. Clone this repository.
+2. Install required libraries
+3. Execute the Jupyter notebooks to interact with the datasets and models.
+4. Modify and experiment with the models as per your dataset and requirements.
+
+## Contributing
