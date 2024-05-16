@@ -13,6 +13,16 @@ This project explores the application of machine learning (ML) to predict employ
 - [License](#license)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+## Project Structure
+
+1. **Library Importation**: Setup of the Python environment with necessary libraries.
+2. **Dataset Importation**: Loading the water potability data from a CSV file.
+3. **Data Analysis**: Employing descriptive statistics and data visualization for an in-depth understanding of the dataset.
+4. **Data Pre-processing**: Cleaning and preparing the data for analysis.
+5. **Model Training**: Applying machine learning algorithms to the training data.
+6. **Model Evaluation**: Assessing model performance using precision, recall, and confusion matrices.
+
+## Methodology
 ## Results
 
 The project's findings indicate that the Random Forest Classifier outperforms the KNN model across all evaluation metrics, demonstrating higher efficiency in classifying employee satisfaction.
