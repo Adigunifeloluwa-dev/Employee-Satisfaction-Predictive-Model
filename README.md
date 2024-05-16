@@ -13,6 +13,19 @@ This project explores the application of machine learning (ML) to predict employ
 - [License](#license)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+### Dataset Description
+
+Each entry in the dataset represents employee satisfaction parameters:
+
+- **Education**: The degree, institution, and area of study of each employee's education
+- **Joining Year**: The year of each employee's employment, showing the length of their employment.
+- **City**: The city or place of employment of every employee.
+- **Payment Tier**: Classification of employees into various salary groups.
+- **Age**: The age of employees
+- **Gender**: Employee gender
+- **Ever Benched**: Shows if a worker has been without work temporarily
+- **Experience in Current Domain**: Work experience of employees
+- **Leave or Not**: shows if employees will leave or not (0 for employees who are willing to leave and 1 for employees who will stay)
   
 ## Project Structure
 
